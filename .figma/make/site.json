@@ -1,0 +1,10 @@
+{
+  "description": "Streamline invoicing and accounting for small businesses and freelancers with features for client management, automatic calculations, and electronic invoicing.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
